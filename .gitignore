@@ -1,0 +1,13 @@
+# 运行时缓存
+__pycache__/
+*.pyc
+*.pyo
+
+# 本机配置与用户隐私数据（含真实目录/文件名），禁止上传
+data/
+程序对话.txt
+_visual_out/
+_screenshots/
+
+# 下载中的临时文件
+*.part
